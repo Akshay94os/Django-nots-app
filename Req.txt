@@ -1,0 +1,1 @@
+required pip install django-admin
